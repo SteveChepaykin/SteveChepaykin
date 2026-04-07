@@ -1,7 +1,13 @@
 # 💫 About Me:
-Flutter developer with 3yrs+ of experience<br>ML/CV enthusiast with a will to dive deep<br>Russian C2, English C2, French A1<br>Amateur musician - guitar and drums<br>Quiz game contestant in a local top-3 team<br>And constantly learning something new!<br> 
+Flutter developer with 3yrs+ of experience<br>
+ML/CV enthusiast with a will to dive deep<br>
+Russian C2 🇷🇺 / English C2 🇬🇧 / French A1 🇫🇷<br>
+Amateur musician - guitar and drums<br>
+Quiz game contestant in a local top-3 team<br>
+And constantly learning something new!<br> 
 
-[![My GitHub stats](https://githubstats-blond.vercel.app/api?username=SteveChepaykin&show_icons=true&theme=github_dark)](https://github.com/SteveChepaykin/github_stats)
+[![My GitHub stats](https://githubstats-blond.vercel.app/api?username=SteveChepaykin&show_icons=true&theme=github_dark)](https://github.com/SteveChepaykin/github_stats)<br>
+[![My Top Languages](https://githubstats-blond.vercel.app/api/top-langs?username=SteveChepaykin&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://github.com/SteveChepaykin/github_stats)<br>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/steve-chepaykin-08a35138b/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:schepaykin@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sterpochka) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/stevechepaykin)
@@ -20,7 +26,7 @@ ML/CV:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SteveChepaykin&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SteveChepaykin&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SteveChepaykin&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SteveChepaykin&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
