@@ -1,6 +1,7 @@
 # 💫 About Me:
 Flutter developer with 3yrs+ of experience<br>ML/CV enthusiast with a will to dive deep<br>Russian C2, English C2, French A1<br>Amateur musician - guitar and drums<br>Quiz game contestant in a local top-3 team<br>And constantly learning something new!<br> 
 
+[![My GitHub stats](https://githubstats-blond.vercel.app/api?username=SteveChepaykin&show_icons=true&theme=github_dark)](https://github.com/SteveChepaykin/github_stats)
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/steve-chepaykin-08a35138b/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:schepaykin@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sterpochka) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/stevechepaykin)
