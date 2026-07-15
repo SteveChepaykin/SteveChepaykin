@@ -1,6 +1,6 @@
 # 💫 About Me:
 Flutter developer with 3yrs+ of experience<br>
-ML/CV enthusiast with a will to dive deep<br>
+Junior ML/CV engineer with a will to dive deep<br>
 Russian C2 🇷🇺 / English C2 🇬🇧 / French A1 🇫🇷<br>
 Amateur musician - guitar and drums<br>
 Quiz game contestant in a local top-3 team<br>
